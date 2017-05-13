@@ -1,0 +1,16 @@
+# maven target folder
+/target/
+
+# input data for testing
+/src/main/resources/wikipedia/wikipedia.dat
+
+# sbt related
+/project/project/
+/project/target/
+
+# eclipse
+/.project
+/.classpath
+/.cache-main
+/.cache-tests
+/.settings/
